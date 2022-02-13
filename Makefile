@@ -1,9 +1,8 @@
-install:
-	poetry install
-
 brain-games:
 	poetry run brain-games
-restart: build publish package-install 
+restart: install build publish package-install 
+install:
+	poetry install
 build:
 	poetry build
 publish:
