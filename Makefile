@@ -1,5 +1,7 @@
 brain-games:
 	poetry run brain-games
+lint:
+	poetry run flake8 brain_games
 restart: install build publish package-install 
 install:
 	poetry install
