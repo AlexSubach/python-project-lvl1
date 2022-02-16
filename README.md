@@ -4,3 +4,5 @@
 <a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
 
 [![Actions Status](https://github.com/AlexSubach/python-project-lvl1/actions/workflows/my_lint.yml/badge.svg)](https://github.com/AlexSubach/python-project-lvl1/actions/workflows/my_lint.yml)
+
+brain-even <a href="https://asciinema.org/a/FngVZjKE2zbiCMtyCNG4uqvAM" target="_blank"><img src="https://asciinema.org/a/FngVZjKE2zbiCMtyCNG4uqvAM.svg" /></a>
