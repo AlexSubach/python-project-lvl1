@@ -9,6 +9,7 @@ authors = ["Alex Subach <alex_28.02@mail.ru>"]
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
 brain-even = "brain_games.scripts.brain_even:main"
+brain-calc = "brain_games.scripts.brain_calc:main"
 [tool.poetry.dependencies]
 python = "^3.9"
 prompt = "^0.4.1"
