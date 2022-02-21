@@ -29,13 +29,13 @@ def main():
             print('Correct!')
             count += 1
         if is_prime(number) is False and answer == 'yes':
-            print(f"'yes' it is don't correct, correct answer is 'no'")
+            print("'yes' it is don't correct, correct answer is 'no'")
             break
         if is_prime(number) is False and answer == 'no':
             print('Correct!')
             count += 1
         if is_prime(number) is True and answer == 'no':
-            print(f"'no' it is don't correct, correct answer is 'yes'")
+            print("'no' it is don't correct, correct answer is 'yes'")
             break
         if count == 3:
             print(f'Congratulations, {name}!')
