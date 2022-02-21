@@ -14,7 +14,6 @@ def main():
         start = randint(0, 20)
         finish = randint(40, 60)
         step = randint(2, 5)
-
         generate_list = list(range(start, finish, step))
         rand = choice(generate_list)
         new_list_0 = str(generate_list).replace(',', '')
