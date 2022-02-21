@@ -24,7 +24,8 @@ def main():
             print('Correct!')
             count += 1
         elif answer != rand:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{rand}'.")
+            print(f"'{answer}' is wrong answer ;(. "
+                  f"Correct answer was '{rand}'.")
             print(f"Let's try again, {name}!")
             break
         if count == 3:

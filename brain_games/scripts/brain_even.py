@@ -22,10 +22,12 @@ def main():
                 print('Correct!')
                 count += 1
             elif random_numb % 2 == 0 and answer == 'no':
-                print(f"'no' is wrong answer ;(. Correct answer was 'yes'. Let's try again, {name}!")
+                print(f"'no' is wrong answer ;(. Correct answer was 'yes'.")
+                print(f"Let's try again, {name}!")
                 break
             elif random_numb % 2 != 0 and answer == 'yes':
-                print(f"'yes' is wrong answer ;(. Correct answer was 'no'. Let's try again, {name}!")
+                print(f"'yes' is wrong answer ;(. Correct answer was 'no'.")
+                print(f"Let's try again, {name}!")
                 break
             if count == 3:
                 print(f'Congratulations, {name}!')
