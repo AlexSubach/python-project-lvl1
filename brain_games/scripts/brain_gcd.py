@@ -26,6 +26,7 @@ def main():
             count += 1
         elif c != answer:
             print(f"'{answer}' is wrong answer ;(. Correct answer was '{c}'.")
+            print(f"Let's try again, {name}!")
             break
         if count == 3:
             print(f'Congratulations, {name}!')

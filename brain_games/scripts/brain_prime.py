@@ -36,6 +36,7 @@ def main():
             count += 1
         if is_prime(number) is True and answer == 'no':
             print("'no' it is don't correct, correct answer is 'yes'")
+            print(f"Let's try again, {name}!")
             break
         if count == 3:
             print(f'Congratulations, {name}!')
