@@ -4,7 +4,7 @@ packages = [
 ]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "5 mini-game for your brain!"
 authors = ["Alex Subach <alex_28.02@mail.ru>"]
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"

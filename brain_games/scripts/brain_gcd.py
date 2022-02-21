@@ -13,7 +13,7 @@ def main():
     while count < 3:
         a = randint(1, 100)
         b = randint(1, 100)
-        print(f'Question: {a}, {b}')
+        print(f'Question: {a} {b}')
         answer = int(input('Your answer: '))
         while a != 0 and b != 0:
             if a > b:
