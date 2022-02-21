@@ -18,7 +18,7 @@ def main():
         generate_list = list(range(start, finish, step))
         rand = choice(generate_list)
         new_list = str(generate_list).replace(str(rand), '..')
-        print(f'Question: {new_list}')
+        print(f'Question: {new_list.strip("][")}')
         answer = int(input('Your answer: '))
         if answer == rand:
             print('Correct!')
