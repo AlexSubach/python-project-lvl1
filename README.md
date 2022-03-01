@@ -1,26 +1,31 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/AlexSubach/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/AlexSubach/python-project-lvl1/actions)
 
-<a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/5b5f228c85c4ef68c044/maintainability)](https://codeclimate.com/github/AlexSubach/python-project-lvl1/maintainability)
 
 [![Actions Status](https://github.com/AlexSubach/python-project-lvl1/actions/workflows/my_lint.yml/badge.svg)](https://github.com/AlexSubach/python-project-lvl1/actions/workflows/my_lint.yml)
 
-brain-even 
+BRAIN-GAMES - это набор мини-игр состоящий из пяти головоломок. 
+В игре "проверка на четность" Вам предстоит ответить, является ли число четным. Игра "калькулятор" требует от Вас правильно ответить на простые математичесике действия (сложение, вычитание, умножение).
+"Наибольший общий делитель" - это игра в которой необходимо назвать максимальное число, на которое делятся оба знаменателя. В игре "Прогрессия" необходимо вставить недостающий элемент в ряд чисел. Игра "Простое ли число?" заключительная часть, в ней необходимо ответить на вопрос, является ли число простым. Для победы в каждой игре необходимо ответить правильно 3 раза. Приятной игры! 
 
-<a href="https://asciinema.org/a/FngVZjKE2zbiCMtyCNG4uqvAM" target="_blank"><img src="https://asciinema.org/a/FngVZjKE2zbiCMtyCNG4uqvAM.svg" /></a>
+brain-even
+
+[![asciicast](https://asciinema.org/a/FngVZjKE2zbiCMtyCNG4uqvAM.svg)](https://asciinema.org/a/FngVZjKE2zbiCMtyCNG4uqvAM)
 
 brain-calc 
 
-<a href="https://asciinema.org/a/XGw9CGkQUKK6evmdYNqsm4TaX" target="_blank"><img src="https://asciinema.org/a/XGw9CGkQUKK6evmdYNqsm4TaX.svg" /></a>
+[![asciicast](https://asciinema.org/a/XGw9CGkQUKK6evmdYNqsm4TaX.svg)](https://asciinema.org/a/XGw9CGkQUKK6evmdYNqsm4TaX)
 
 brain-gcd
 
-<a href="https://asciinema.org/a/V29QhLDpAWBgp49btwhICrnU1" target="_blank"><img src="https://asciinema.org/a/V29QhLDpAWBgp49btwhICrnU1.svg" /></a>
+[![asciicast](https://asciinema.org/a/V29QhLDpAWBgp49btwhICrnU1.svg)](https://asciinema.org/a/V29QhLDpAWBgp49btwhICrnU1)
 
 brain-progression
 
-<a href="https://asciinema.org/a/cgRCn3qXp5VmpflJf2PGpa66P" target="_blank"><img src="https://asciinema.org/a/cgRCn3qXp5VmpflJf2PGpa66P.svg" /></a>
+[![asciicast](https://asciinema.org/a/cgRCn3qXp5VmpflJf2PGpa66P.svg)](https://asciinema.org/a/cgRCn3qXp5VmpflJf2PGpa66P)
 
 brain-prime
 
-<a href="https://asciinema.org/a/O4nLTjGRkak0TrNVUYRNFtyUJ" target="_blank"><img src="https://asciinema.org/a/O4nLTjGRkak0TrNVUYRNFtyUJ.svg" /></a>
+[![asciicast](https://asciinema.org/a/O4nLTjGRkak0TrNVUYRNFtyUJ.svg)](https://asciinema.org/a/O4nLTjGRkak0TrNVUYRNFtyUJ)
+
