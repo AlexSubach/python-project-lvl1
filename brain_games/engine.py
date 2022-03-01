@@ -24,5 +24,5 @@ def run_game(game):
 
 
 def game_over(user_answer, correct_answer, user_name):
-    print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{correct_answer}'")
+    print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{correct_answer}'") # noqa: E501
     print(f"Let's try again, {user_name}!")
