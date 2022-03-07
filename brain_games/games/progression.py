@@ -10,9 +10,8 @@ def get_question_and_answer():
     finish = randint(40, 60)
     step = randint(2, 5)
     generate_list = list(range(start, finish, step))
-    random = choice(generate_list)
-    new_list_0 = str(generate_list).replace(',', '')
-    new_list = str(new_list_0).replace(str(random), '..')
-    question = f'Question: {new_list.strip("][")}'
+    random = str(choice(generate_list))
+    new_list = str(generate_list).replace(',', '')
+    question = f"{new_list.replace(random, '..').strip('][')}"
     correct_answer = random
     return question, str(correct_answer)

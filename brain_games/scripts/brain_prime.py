@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 from brain_games.engine import run_game
-from brain_games.games import is_prime
+from brain_games.games import prime_number
 
 
 def main():
-    run_game(is_prime)
+    run_game(prime_number)
 
 
 if __name__ == '__main__':
