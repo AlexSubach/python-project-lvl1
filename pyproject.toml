@@ -1,9 +1,7 @@
 [tool.poetry]
-packages = [
-	{ include = "brain_games" }
-]
-name = "hexlet-code"
-version = "0.1.0"
+packages = [{ include = "brain_games" }]
+name = "brain-games"
+version = "0.8.0"
 description = "5 mini-game for your brain!"
 authors = ["Alex Subach <alex_28.02@mail.ru>"]
 repository = "https://github.com/AlexSubach/python-project-lvl1.git"

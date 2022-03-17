@@ -2,8 +2,7 @@
 from random import randint
 
 
-def get_description():
-    return 'Answer "yes" if the number is even, otherwise answer "no".'
+description = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def get_question_and_answer():

@@ -2,8 +2,7 @@ from random import randint
 from math import gcd
 
 
-def get_description():
-    return 'Find the greatest common divisor of given numbers.'
+description = 'Find the greatest common divisor of given numbers.'
 
 
 def get_question_and_answer():
